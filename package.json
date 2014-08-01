@@ -1,0 +1,30 @@
+{
+  "name": "photoexodus",
+  "engines": {
+    "node": "0.11.13"
+  },
+  "version": "0.0.0",
+  "description": "Move photos from one social media site to another",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/larryprice/photoexodus.git"
+  },
+  "keywords": [
+    "photos",
+    "social"
+  ],
+  "author": "Larry Price",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/larryprice/photoexodus/issues"
+  },
+  "homepage": "https://github.com/larryprice/photoexodus",
+  "dependencies": {
+    "express": "^4.7.2",
+    "logfmt": "^1.1.2"
+  }
+}
